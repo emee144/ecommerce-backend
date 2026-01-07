@@ -1,5 +1,5 @@
 const products = [
-  { id: 1, name: "Laptop", price: 80, stock: 17 },
+  { id: 1, name: "Laptop", price: 100, stock: 17 },
   { id: 2, name: "Smartphone", price: 30, stock: 25 },
   { id: 3, name: "Tablet", price: 20, stock: 8 },
   { id: 4, name: "Monitor", price: 68, stock: 12 },
